@@ -1,0 +1,21 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 15%;
+    background-color: #4cf1ba;
+}
+
+p, textarea{
+    font-size: 20px;
+}
+
+textarea{
+    width: 40%;
+    padding: 20px;
+    border: solid black 2px
+}
+button{
+    padding: 8px;
+    margin: 10px;
+    border: solid black 2px
+}
